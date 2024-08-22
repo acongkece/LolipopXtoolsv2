@@ -7,7 +7,7 @@ echo "1. Traker No"                 echo "5. tiktok scrape"
 echo "2. Find User"                 echo "6. Track Nik"
 echo "3. ddos website"              echo "7. getnik"
 echo "4. Instagram Scrape"          echo
-echo "3. Keluar"
+echo "0. Keluar"
 
 read -p "Masukkan pilihan Anda: " choice
 
